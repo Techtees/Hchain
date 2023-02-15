@@ -66,3 +66,4 @@ Hchain would be completely free to patients. Hospitalswould be charged an afford
 
 ## Glossary
 - EMR : An EMR (electronic medical record) is a digital version of a chart with patient information stored in a computer and an EHR (electronic health record) is a digital record of health information. 
+- HIPAA: The Health Insurance Portability and Accountability Act of 1996 (HIPAA) is a federal law that required the creation of national standards to protect sensitive patient health information from being disclosed without the patient's consent or knowledge.
