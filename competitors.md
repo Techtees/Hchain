@@ -1,6 +1,6 @@
 ## Competitors 
 
-[Techcabal Healthtech](https://techcabal.com/tag/healthtech/)
+- [Techcabal Healthtech](https://techcabal.com/tag/healthtech/)
 - Afya Rekod
 - devdex
 
