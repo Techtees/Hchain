@@ -6,3 +6,9 @@ Hospitals don't have to have down time due to the fact, patients data will be re
 
 ## 1. Introduction
 Hospital infrasturcture is currently in a closed system, and delays do occur in registering new patients without knowledge of what and where they have been to before. 
+
+## Token Distribution and Utility
+
+## Roadmap
+
+## The Team
