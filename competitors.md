@@ -1,8 +1,8 @@
 ## Competitors 
 
 - [Techcabal Healthtech](https://techcabal.com/tag/healthtech/)
-- Afya Rekod
-- devdex
+- Afya Rekod - https://afyarekod.com/
+- devdex - https://devdexsoftware.com/portfolio-item/yarysa_emr/
 
 ## Design
 
