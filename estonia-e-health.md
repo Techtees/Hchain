@@ -11,3 +11,7 @@ X-Road is a centrally managed distributed Data Exchange Layer (DXL) between info
 
 Resources:
 https://innohealthmagazine.com/2021/in-focus/what-is-estonia-doing-with-block-chain-in-providing-healthcare-to-its-citizens/
+
+https://swisstruth.ch/technology-2/
+
+https://guardtime.com/technology
